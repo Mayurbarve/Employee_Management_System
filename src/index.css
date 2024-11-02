@@ -16,3 +16,6 @@ body{
 #createTask::-webkit-scrollbar{
   display: none;
 }
+#givenTasks::-webkit-scrollbar{
+  display: none;
+}
